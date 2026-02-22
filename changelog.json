@@ -1,0 +1,33 @@
+[
+    {
+        "version": "1.0.0",
+        "date": "02/02/2026",
+        "changes": [
+            "Vers\u00e3o inicial do launcher"
+        ]
+    },
+    {
+        "version": "1.0.1",
+        "date": "03/02/2026",
+        "changes": [
+            "Barra de pesquisa adcionada",
+            "Rom - Pokemon Leaf Green PT-BR e EN adcionada",
+            "Rom - Pokemon Emerald PT-BR e EN adcionada"
+
+        ]
+    },
+    {
+        "version": "1.0.2",
+        "date": "04/02/2026",
+        "changes": [
+            "Layout e responsividade arrumada",
+            "Sistema de busca melhorado e bug arrumado",
+            "Rom - Pokémon Blue Stars PT-BR adcionada",
+            "Rom - Pokémon Blue Stars 2 PT-BR adcionada",
+            "Rom - Pokémon Blue Stars 3 PT-BR adcionada",
+            "Rom - Pokémon Blue Stars 4 PT-BR adcionada",
+            "Rom - Pokémon Duality DEMO PT-BR adcionada"
+
+        ]
+    }
+]
