@@ -1,16 +1,8 @@
 [
   {
-    "name": "Pokemon Fire Red PT-BR",
-    "description": [
-      "Versão traduzida",
-      "100% PT-BR",
-      "Sem bugs"
-    ],
-    "file": "firered_ptbr.gba"
-  },
-  {
     "name": "Pokemon Emerald",
     "description": "Versão original completa",
-    "file": "https://drive.google.com/file/d/1c16_Ak8gji7CJK1AOXv1T2varhOyyPfh/view?usp=drive_link"
+     "download1": "https://drive.google.com/file/d/1c16_Ak8gji7CJK1AOXv1T2varhOyyPfh/view?usp=drive_link"
   }
 ]
+
