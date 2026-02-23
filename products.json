@@ -1,120 +1,16 @@
 [
-    {
-        "name": "Pokémon Fire Red",
-        "description": [
-            "Pokémon Fire Red",
-            "Duas versões disponíveis: Português-Brasil e Inglês.",
-            "Tradução não oficial feita por fãs."
-        ],
-        "image": "FireRed.png",
-        "download1": "https://drive.google.com/file/d/1c16_Ak8gji7CJK1AOXv1T2varhOyyPfh/view?usp=sharing",
-        "download2": "downloads/Pokemon - FireRed Version (USA).zip",
-        "Options": true,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Emerald",
-        "description": [
-            "Pokémon Emerald",
-            "Duas versões disponíveis: Português-Brasil e Inglês.",
-            "Tradução não oficial feita por fãs."
-        ],
-        "image": "Emerald.png",
-        "download1": "downloads/Pokemon - Emerald Version (BRA).zip",
-        "download2": "downloads/Pokemon - Emerald Version (USA, Europe).zip",
-        "Options": true,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Leaf Green",
-        "description": [
-            "Pokémon Leaf Green",
-            "Duas versões disponíveis: Português-Brasil e Inglês.",
-            "Tradução não oficial feita por fãs."
-        ],
-        "image": "LeafGreen.png",
-        "download1": "downloads/Pokemon - LeafGreen Version (BRA).zip",
-        "download2": "downloads/Pokemon - LeafGreen Version (USA).zip",
-        "Options": true,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Blue Stars 4",
-        "description": [
-            "Game disponível apenas em PT-BR.",
-            "ROM Hack feita por fã.",
-            "Autor: Jean Stars"
-        ],
-        "image": "blueStars4.png",
-        "download1": "downloads/Pokemon - Blue Stars4 Version (BRA).zip",
-        "download2": "",
-        "Options": false,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Blue Stars 3",
-        "description": [
-            "Game disponível apenas em PT-BR.",
-            "ROM Hack feita por fã.",
-            "Autor: Jean Stars"
-        ],
-        "image": "blueStars3.png",
-        "download1": "downloads/Pokemon - Blue Stars3 Version (BRA).zip",
-        "download2": "",
-        "Options": false,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Blue Stars 2",
-        "description": [
-            "Game disponível apenas em PT-BR.",
-            "ROM Hack feita por fã.",
-            "Autor: Jean Stars"
-        ],
-        "image": "blueStars2.png",
-        "download1": "downloads/Pokemon - Blue Stars2 Version (BRA).zip",
-        "download2": "",
-        "Options": false,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Blue Stars",
-        "description": [
-            "Game disponível apenas em PT-BR.",
-            "ROM Hack feita por fã.",
-            "Autor: Jean Stars"
-        ],
-        "image": "blueStars.png",
-        "download1": "downloads/Pokemon - Blue Stars Version (BRA).zip",
-        "download2": "",
-        "Options": false,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Pokémon Duality",
-        "description": [
-            "Game disponível apenas em PT-BR.",
-            "ROM Hack (Versão DEMO).",
-            "Autor: Jean Stars"
-        ],
-        "image": "Duality.png",
-        "download1": "downloads/Pokemon - Duality Version (BRA).zip",
-        "download2": "",
-        "Options": false,
-        "Platform": "GBA"
-    },
-    {
-        "name": "Em Desenvolvimento",
-        "description": [
-            "Estamos trabalhando para trazer",
-            "os melhores títulos de NDS",
-            "em breve aqui!"
-        ],
-        "image": "DEV.jpg",
-        "download1": "",
-        "download2": "",
-        "Options": false,
-        "Platform": "NDS"
-    }
-
+  {
+    "name": "Pokemon Fire Red PT-BR",
+    "description": [
+      "Versão traduzida",
+      "100% PT-BR",
+      "Sem bugs"
+    ],
+    "file": "firered_ptbr.gba"
+  },
+  {
+    "name": "Pokemon Emerald",
+    "description": "Versão original completa",
+    "file": "https://drive.google.com/file/d/1c16_Ak8gji7CJK1AOXv1T2varhOyyPfh/view?usp=drive_link"
+  }
 ]
