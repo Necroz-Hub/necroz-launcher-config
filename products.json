@@ -7,7 +7,7 @@
             "Tradução não oficial feita por fãs."
         ],
         "image": "FireRed.png",
-        "download1": "downloads/Pokemon - FireRed Version (BRA).zip",
+        "download1": "https://drive.google.com/file/d/1c16_Ak8gji7CJK1AOXv1T2varhOyyPfh/view?usp=sharing",
         "download2": "downloads/Pokemon - FireRed Version (USA).zip",
         "Options": true,
         "Platform": "GBA"
@@ -116,4 +116,5 @@
         "Options": false,
         "Platform": "NDS"
     }
+
 ]
